@@ -1,0 +1,95 @@
+[
+  {
+    "name": "City Care Hospital",
+    "email": "demo.citycare@bloodboard.example",
+    "phone": "+91 80 4000 1001",
+    "location": "Koramangala, Bengaluru",
+    "address": "12th Main Road, Koramangala, Bengaluru",
+    "verified": true,
+    "id": "0000000000000000000003e9",
+    "isDemo": true,
+    "createdAt": "2026-10-07T02:15:22.699Z",
+    "updatedAt": "2026-10-07T02:15:22.699Z"
+  },
+  {
+    "name": "Apollo Emergency Center",
+    "email": "demo.apollo@bloodboard.example",
+    "phone": "+91 80 4000 1002",
+    "location": "Jayanagar, Bengaluru",
+    "address": "24th Cross, Jayanagar, Bengaluru",
+    "verified": true,
+    "id": "0000000000000000000003ea",
+    "isDemo": true,
+    "createdAt": "2026-10-07T02:15:22.699Z",
+    "updatedAt": "2026-10-07T02:15:22.699Z"
+  },
+  {
+    "name": "Sunrise Medical Center",
+    "email": "demo.sunrise@bloodboard.example",
+    "phone": "+91 80 4000 1003",
+    "location": "Indiranagar, Bengaluru",
+    "address": "100 Feet Road, Indiranagar, Bengaluru",
+    "verified": true,
+    "id": "0000000000000000000003eb",
+    "isDemo": true,
+    "createdAt": "2026-10-07T02:15:22.699Z",
+    "updatedAt": "2026-10-07T02:15:22.699Z"
+  },
+  {
+    "name": "Narayana Health City",
+    "email": "demo.narayana@bloodboard.example",
+    "phone": "+91 80 4000 1004",
+    "location": "Bommasandra, Bengaluru",
+    "address": "Hosur Road, Bommasandra, Bengaluru",
+    "verified": true,
+    "id": "0000000000000000000003ec",
+    "isDemo": true,
+    "createdAt": "2026-10-07T02:15:22.699Z",
+    "updatedAt": "2026-10-07T02:15:22.699Z"
+  },
+  {
+    "name": "St. Martha’s Hospital",
+    "email": "demo.stmarthas@bloodboard.example",
+    "phone": "+91 80 4000 1005",
+    "location": "Vasanth Nagar, Bengaluru",
+    "address": "Nrupathunga Road, Vasanth Nagar, Bengaluru",
+    "verified": true,
+    "id": "0000000000000000000003ed",
+    "isDemo": true,
+    "createdAt": "2026-10-07T02:15:22.699Z",
+    "updatedAt": "2026-10-07T02:15:22.699Z"
+  },
+  {
+    "verified": false,
+    "name": "Riverbank Emergency Center",
+    "email": "riverbank.auth-1791342455959-b4c5ca@example.com",
+    "phone": "9876512311",
+    "location": "Hyderabad",
+    "userId": "b38c44bf8e59c7e99090fb14",
+    "id": "24f8516c2aed460001469496",
+    "createdAt": "2026-10-07T03:07:49.544Z",
+    "updatedAt": "2026-10-07T03:07:49.544Z"
+  },
+  {
+    "verified": false,
+    "name": "CityCare Demo Hospital",
+    "email": "hospital.demo@bloodboard.local",
+    "phone": "9876500001",
+    "location": "Demo District, Bengaluru",
+    "userId": "0dfab90a9e47e0ab5771f5bf",
+    "id": "694e53ee8d845c3fbe367d02",
+    "createdAt": "2026-10-07T04:26:01.455Z",
+    "updatedAt": "2026-10-07T04:26:01.455Z"
+  },
+  {
+    "verified": false,
+    "name": "Riverbank Emergency Center",
+    "email": "riverbank.auth-1791347504470-3d3619@example.com",
+    "phone": "9876512311",
+    "location": "Hyderabad",
+    "userId": "0472132d34ced558a5113b4e",
+    "id": "62d061bd12ffa73424828663",
+    "createdAt": "2026-10-07T04:31:52.714Z",
+    "updatedAt": "2026-10-07T04:31:52.714Z"
+  }
+]
