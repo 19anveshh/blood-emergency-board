@@ -1,0 +1,7 @@
+backend/
+node_modules/
+dist/
+tests/
+.env
+.env.*
+render.yaml
