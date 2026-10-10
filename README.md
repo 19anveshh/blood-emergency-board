@@ -318,19 +318,5 @@ _Add screenshots here before the final submission._
 
 These are planned improvements; they are not part of the current implemented workflow.
 
-## Team / Hackathon
-
-| Detail | Information |
-| --- | --- |
-| Project | **Blood Emergency Board** |
-| Team name | _Add team name_ |
-| Hackathon | _Add hackathon name and edition_ |
-| Institution / organization | _Add institution or organization_ |
-| Theme | Healthcare coordination and emergency response |
-
-| Team member | Contribution | GitHub / portfolio |
-| --- | --- | --- |
-| _Add member name_ | _Add responsibilities_ | _Add profile link_ |
-| _Add member name_ | _Add responsibilities_ | _Add profile link_ |
 
 **Our focus:** Demonstrate a clear, complete path from an emergency blood request to donor acceptance and hospital-confirmed fulfillment.
