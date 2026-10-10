@@ -14,7 +14,7 @@ export default function LandingPage() {
             <div className="hero-kicker"><span className="pulse-dot" /> <span>Live emergency network</span><span className="kicker-line" /><span className="kicker-location"><MapPin size={13} /> Bengaluru</span></div>
             <h1>When every minute <em>matters,</em> we connect you.</h1>
             <p className="hero-description">Blood Emergency Board brings hospitals and willing donors together in real time — so the right blood reaches the right patient, faster.</p>
-            <div className="hero-actions"><Link className="button button-primary button-lg" to="/board">Find blood <ArrowRight size={17} /></Link><Link className="button button-ghost button-lg" to="/register"><HeartPulse size={17} /> Become a donor</Link></div>
+            <div className="hero-actions"><Link className="button button-primary button-lg" to="/board">Find blood <ArrowRight size={17} /></Link></div>
             <div className="hero-trust"><div className="trust-avatars"><span>AM</span><span>ST</span><span>RK</span><span>+2k</span></div><div><div className="trust-stars">★★★★★ <span>4.9/5</span></div><p>Trusted by our donor community</p></div></div>
           </div>
           <div className="hero-visual">
@@ -31,7 +31,7 @@ export default function LandingPage() {
       <section className="board-preview section-padding"><div className="container"><div className="preview-heading"><div><p className="eyebrow">The emergency board</p><h2>See where help is needed.</h2></div><Link className="text-link text-link-dark" to="/board">View all requests <ArrowRight size={15} /></Link></div><div className="preview-grid">{emergencyRequests.slice(0, 3).map((request) => <EmergencyCard key={request.id} request={request} />)}</div></div></section>
       <section className="cta-section"><div className="container cta-inner"><div className="cta-icon"><DropletsIcon /></div><div><p className="eyebrow">Your next action could change a life</p><h2>Ready to make an impact?</h2><p>Whether you need blood today or want to be there for someone else, you belong here.</p></div><Link className="button button-light button-lg" to="/register">Join BloodBoard <ArrowRight size={17} /></Link></div></section>
     </main>
-    <footer className="public-footer"><div className="container footer-top"><div><Logo /><p>A faster, clearer way to respond to blood emergencies.</p></div><div className="footer-links"><div><strong>Platform</strong><Link to="/board">Emergency board</Link><Link to="/register">Become a donor</Link><Link to="/login">Hospital login</Link></div><div><strong>Company</strong><a href="/#about">About us</a><a href="/#how-it-works">How it works</a><a href="/#support">Help center</a></div></div></div><div className="container footer-bottom"><span>© 2024 BloodBoard. Built for better response.</span><span><ShieldCheck size={14} /> Your privacy matters</span></div></footer>
+     <footer className="public-footer"><div className="container footer-top"><div><Logo /><p>A faster, clearer way to respond to blood emergencies.</p></div><div className="footer-links"><div><strong>Platform</strong><Link to="/board">Emergency board</Link><Link to="/login">Hospital login</Link></div><div><strong>Company</strong><a href="/#about">About us</a><a href="/#how-it-works">How it works</a><a href="/#support">Help center</a></div></div></div><div className="container footer-bottom"><span>© 2024 BloodBoard. Built for better response.</span><span><ShieldCheck size={14} /> Your privacy matters</span></div></footer>
   </div>
 }
 
